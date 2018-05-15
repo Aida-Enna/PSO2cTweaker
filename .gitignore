@@ -1,0 +1,7 @@
+build
+Makefile
+*.elf
+*.nacp
+*.nro
+*.nso
+*.pfs0
